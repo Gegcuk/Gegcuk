@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Gegcuk
-- 👀 I’m interested in data analytics, statistics etc.
-- 🌱 I’m currently learning python and data analytics
 - 📫 How to reach me: gegcuk@gmail.com
 
 <!---
