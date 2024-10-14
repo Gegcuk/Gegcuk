@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aleksei (@Gegcuk)
 
-I'm a **Junior Java Developer** with a strong background in **Product Management** and **Cloud Technologies**. Having worked as a Product Manager, I have experience leading teams, managing projects, and creating customer-focused solutions.
+I'm a **Junior Java Developer** with a strong background in **Product Management**. Having worked as a Product Manager, I have experience leading teams, managing projects, and creating customer-focused solutions.
 
 - 🌱 Currently, I'm enhancing my skills in **Java development** and working on exciting projects, including developing a game using **Java**.
 - 📫 How to reach me: gegcuk@gmail.com
