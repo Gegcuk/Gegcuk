@@ -11,7 +11,7 @@ I'm a **Junior Java Developer** with a strong background in **Product Management
 - **Languages**: Java, SQL, Python, C
 - **Frameworks**: Spring, Hibernate
 - **Build & Automation**: Maven, Gradle, Git
-- **Databases**: MySQL, SQLite
+- **Databases**: MySQL, SQLite, PostgreSQL
 - **Cloud & DevOps**: Docker, Kubernetes
 - **Testing**: JUnit, Mockito
 - **Version Control**: Git, GitHub
