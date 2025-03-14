@@ -1,30 +1,38 @@
-# Hi there 👋 I'm Aleksei (@Gegcuk)
+# Hi there 👋, I'm Aleksei (@Gegcuk)
 
-I'm a **Junior Java Developer** with a strong background in **Product Management**. Having worked as a Product Manager, I have experience leading teams, managing projects, and creating customer-focused solutions.
+I'm a **Junior Java Developer** with a solid background in **Product Management**. As I near the end of **Phase 2** in my [learning journey](https://github.com/Gegcuk/learining_path), I've built a strong foundation in core Java, build tools, and database fundamentals. My hands-on projects—from developing secure APIs to ensuring transactional consistency—demonstrate my ability to turn complex requirements into practical solutions.
 
-- 🌱 Currently, I'm enhancing my skills in **Java development** and working on exciting projects, including developing a game using **Java**.
-- 📫 How to reach me: gegcuk@gmail.com
-- 🌐 Personal website: [gegc.uk](https://gegc.uk)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/alekseylazunin/)
+## 📚 Learning Path
+I'm following a structured learning path that outlines my progress and planned milestones—from core Java foundations to advanced topics. Check out the details on my [Learning Path](https://github.com/Gegcuk/learining_path) repository.
 
-### 🔧 Technologies & Tools:
-- **Languages**: Java, SQL, Python, C
-- **Frameworks**: Spring, Hibernate
-- **Build & Automation**: Maven, Gradle, Git
-- **Databases**: MySQL, SQLite, PostgreSQL
-- **Cloud & DevOps**: Docker, Kubernetes
-- **Testing**: JUnit, Mockito
-- **Version Control**: Git, GitHub
-- **Managment experience** Product Management & Marketing Strategies
+## 📝 Learning Tactics
+I use self-made tactics to enhance my learning based on recent researches. For every chapter I read, I create detailed tests that include:
+- Open questions  
+- Test questions  
+- Multiple choice questions  
+- Fill-the-gap exercises  
+- Architecture and practice questions  
 
-### 📊 Projects & Achievements:
-- Implemented a cloud storage solution using NextCloud for businesses.
-- Managed the integration of control panels in cloud services, leading to major efficiency improvements.
-- Currently developing a game project using Java and library managment system using Spring framework.
+This approach reinforces my understanding and ensures I can apply theoretical knowledge in practical scenarios.
+
+## 🔧 Technologies & Tools
+- **Languages:** Java (core & advanced), SQL, Python, C  
+- **Frameworks:** Spring, Hibernate  
+- **Testing:** JUnit 5, Mockito  
+- **Build & Automation:** Maven, Gradle, Git  
+- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB  
+- **Cloud & DevOps:** Docker, Kubernetes  
+- **Management:** Product Management, Marketing Strategies  
+- **Algorithmic Problem Solving:** Active LeetCode practice ([LeetCode Repository](https://github.com/Gegcuk/LeetCode))
+
+## 🚀 Projects & Achievements
+- [**E-commerce Platform & RESTful APIs:**](https://github.com/Gegcuk/sb-ecom) Developed an e-commerce platform with features like order processing, shopping cart functionality, and user authentication. Check out the project on [GitHub](https://github.com/Gegcuk/sb-ecom).
+- Designed and implemented [RESTful APIs](https://github.com/Gegcuk/sb-ecom) with clear, iterative commit histories that highlight feature enhancements and robust error handling. Check out the project on [GitHub](https://github.com/Gegcuk/sb-ecom)
+- Regularly tackle diverse algorithm challenges on LeetCode, ranging from linked list problems to dynamic programming.
+
+## 📫 Connect with Me
+- **Email:** [gegcuk@gmail.com](mailto:gegcuk@gmail.com)
+- **Personal Website:** [gegc.uk](https://gegc.uk)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alekseylazunin/)
 
 Feel free to explore my repositories and get in touch!
-
-<!---
-Gegcuk/Gegcuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
