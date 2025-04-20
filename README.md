@@ -5,16 +5,6 @@ I'm a **Junior Java Developer** with a solid background in **Product Management*
 ## 📚 Learning Path
 I'm following a structured learning path that outlines my progress and planned milestones—from core Java foundations to advanced topics. Check out the details on my [Learning Path](https://github.com/Gegcuk/learining_path) repository.
 
-## 📝 Learning Tactics
-I use self-made tactics to enhance my learning based on recent researches. For every chapter I read, I create detailed tests that include:
-- Open questions  
-- Test questions  
-- Multiple choice questions  
-- Fill-the-gap exercises  
-- Architecture and practice questions  
-
-This approach reinforces my understanding and ensures I can apply theoretical knowledge in practical scenarios.
-
 ## 🔧 Technologies & Tools
 - **Languages:** Java (core & advanced), SQL, Python, C  
 - **Frameworks:** Spring, Hibernate  
