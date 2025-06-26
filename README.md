@@ -93,7 +93,22 @@ Check out the full syllabus, progress bars, and upcoming milestones in my [Learn
 ---
 
 ## 📈 GitHub Stats  
+
+<div align="center">
+  
 ![Gegcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gegcuk&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gegcuk&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gegcuk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gegcuk&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Gegcuk's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gegcuk&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Gegcuk&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
