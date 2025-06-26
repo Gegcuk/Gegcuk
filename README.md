@@ -1,6 +1,6 @@
-# Hi there 👋 I’m Aleksei Lazunin (@Gegcuk)
+# Hi there 👋 I'm Aleksei Lazunin (@Gegcuk)
 
-I’m a **Junior Java Developer** with a solid background in **Product Management**. Currently wrapping up **Phase 2** of my [Learning Path](https://github.com/Gegcuk/learining_path), I’ve built a robust foundation in core Java, Spring Boot, and database design—and I’m already delivering production-grade features in my side projects.
+I'm a **Java Developer** with a solid background in **Product Management**. Currently wrapping up **Phase 3** of my [Learning Path](https://github.com/Gegcuk/learining_path), I've built a robust foundation in core Java, Spring Boot, and database design—and I'm already delivering production-grade features in my side projects.
 
 ---
 
@@ -14,12 +14,12 @@ Check out the full syllabus, progress bars, and upcoming milestones in my [Learn
 
 | Domain                | Tools & Frameworks                                     |
 |-----------------------|--------------------------------------------------------|
-| **Languages**         | Java 17, SQL, Python, C                                |
+| **Languages**         | Java 17, SQL, Python, C, Dart                         |
 | **Backend**           | Spring Boot, Hibernate/JPA, REST, JWT, Flyway          |
+| **Mobile & Frontend** | Flutter, React + Vite, HTML5, CSS3, Tailwind CSS      |
 | **Microservices**     | Kafka (in progress), Docker, Kubernetes                |
 | **Databases**         | MySQL, PostgreSQL, SQLite, MongoDB                     |
 | **Testing & TDD**     | JUnit 5, Mockito, MockMvc, @SpringBootTest             |
-| **Frontend**          | React + Vite, HTML5, CSS3, Tailwind CSS                |
 | **Build & CI/CD**     | Maven, Gradle, GitHub Actions, Git                     |
 | **Product Mgmt & PM** | Jira/Atlassian, Agile, User Research                   |
 | **Algorithms**        | Active LeetCode practice ([LeetCode repo](https://github.com/Gegcuk/LeetCode)) |
@@ -27,6 +27,15 @@ Check out the full syllabus, progress bars, and upcoming milestones in my [Learn
 ---
 
 ## 🚀 Featured Projects
+
+### 💬 KidsGPT  
+**Jun 2025– present** • [github.com/Gegcuk/kidsgpt](https://github.com/Gegcuk/kidsgpt)  
+- 🤖 Flutter cross-platform AI chat app with kid-friendly conversations & educational features  
+- 🔐 JWT authentication & secure storage with Provider state management  
+- 🎤 Speech-to-text integration, message persistence & conversation continuity  
+- 📱 Material Design 3 UI; supports Android, iOS, Web & Desktop platforms  
+
+---
 
 ### 🎓 QuizMaker  
 **Apr 2025–May 2025** • [github.com/Gegcuk/quizmaker](https://github.com/Gegcuk/quizmaker)  
@@ -67,15 +76,15 @@ Check out the full syllabus, progress bars, and upcoming milestones in my [Learn
 ---
 
 ## 📈 GitHub Stats  
-![Gegcuk’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Gegcuk&show_icons=true&theme=radical)
+![Gegcuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gegcuk&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Let’s Connect  
+## 📫 Let's Connect  
 - 📧 [gegcuk@gmail.com](mailto:gegcuk@gmail.com)  
 - 🔗 [Personal Site](https://gegc.uk)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/alekseylazunin/)  
 
 ---
 
-*Thanks for stopping by—feel free to explore my repos, drop me a message, or star a project you like!*  
+*Thanks for stopping by—feel free to explore my repos, drop me a message, or star a project you like!* 
