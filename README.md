@@ -4,12 +4,6 @@ I'm a **Java Developer** with a solid background in **Product Management**. Curr
 
 ---
 
-## 📚 Learning Path  
-I follow a structured roadmap—from **Core Java** through **Advanced Spring** to **Microservices & DevOps**.  
-Check out the full syllabus, progress bars, and upcoming milestones in my [Learning Path repo](https://github.com/Gegcuk/learining_path).
-
----
-
 ## 🛠️ Technologies & Tools  
 
 | Domain                | Tools & Frameworks                                     |
