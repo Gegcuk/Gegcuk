@@ -24,7 +24,7 @@ I'm a **Java Developer** with a solid background in **Product Management**. Curr
 ## 🚀 Featured Projects
 
 ### 💬 KidsGPT - Full-Stack AI Chat Platform
-**Jun 2024– present** • Frontend: [kidsgpt](https://github.com/Gegcuk/kidsgpt) • Backend: [kidsGPTbackend](https://github.com/Gegcuk/kidsGPTbackend)
+**Jun 2025– present** • Frontend: [kidsgpt](https://github.com/Gegcuk/kidsgpt) • Backend: [kidsGPTbackend](https://github.com/Gegcuk/kidsGPTbackend)
 
 **🎯 Flutter Cross-Platform Frontend:**
 - 🤖 Kid-friendly AI chat with educational conversations & safety features
@@ -43,11 +43,14 @@ I'm a **Java Developer** with a solid background in **Product Management**. Curr
 ---
 
 ### 🎓 QuizMaker  
-**Apr 2025–May 2025** • [github.com/Gegcuk/quizmaker](https://github.com/Gegcuk/quizmaker)  
-- ✅ Spring Boot quiz engine with multiple question types, secure grading, and full audit logs  
-- 🔐 JWT authentication & role-based access (USER/ADMIN) with BCrypt passwords  
-- 🛠 Flyway for versioned DB migrations & MySQL JSON columns for flexible question storage  
-- 📦 CI/CD via GitHub Actions; end-to-end tests with @SpringBootTest & MockMvc
+**Apr 2025–Present** • [github.com/Gegc/quizmaker](https://github.com/Gegcuk/quizmaker)  
+
+- ✅ **Spring Boot 3.4** quiz platform with 8 question types (MCQ, True/False, Fill-gaps, Hotspot, etc.)
+- 🔐 **Advanced Security** - JWT auth, 5-tier role system, 65+ granular permissions, server-side grading
+- 🗄️ **MySQL JSON storage** for flexible question content + comprehensive audit logging
+- 📊 **Analytics & Social** - Leaderboards, spaced repetition, comments, bookmarks, notifications
+- 🛡️ **Anti-cheating** - Question shuffling, timer enforcement, suspicious activity detection
+- 🧪 **Testing** - JUnit 5, Mockito, @SpringBootTest with OpenAPI documentation
 
 ---
 
