@@ -116,4 +116,4 @@ I'm a **Java Developer** with a solid background in **Product Management**. Curr
 
 ---
 
-*Thanks for stopping by! Feel free to explore my repositories, drop me a message, or star a project you find interesting. I'm always open to discussing Java, Spring Boot, or product development!*
+*Thanks for stopping by! Feel free to explore my repositories, drop me a message, or star a project you find interesting. I'm always open to discussing everything!*
