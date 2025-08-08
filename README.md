@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aleksei Lazunin (@gegcuk)
 
-I'm a **Java Developer** with a solid background in **Product Management**. Currently wrapping up **Phase 3** of my [Learning Path](https://github.com/Gegcuk/learining_path), I've built a robust foundation in core Java, Spring Boot, and database design—and I'm already delivering production-grade features in my side projects.
+I'm a **Java Developer** with a solid background in **Product Management**.
 
 ---
 
