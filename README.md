@@ -8,7 +8,7 @@ I'm a **Java Developer** with a solid background in **Product Management**.
 
 | Domain                | Tools & Frameworks                                     |
 |-----------------------|--------------------------------------------------------|
-| **Languages**         | Java 17, SQL, Python, C, Dart                         |
+| **Languages**         | Java, SQL, Python, C, Dart                         |
 | **Backend**           | Spring Boot, Hibernate/JPA, REST API, JWT, Flyway     |
 | **Mobile & Frontend** | Flutter, React + Vite, HTML5, CSS3, Tailwind CSS      |
 | **AI Integration**    | OpenAI API, Chat Completion, Image Generation          |
